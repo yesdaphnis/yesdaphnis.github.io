@@ -56,3 +56,19 @@
   min-height: 1000px;
 }
 
+.btn {
+  background: var(--bs-primary);
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--bs-primary);
+  border-color: #655500;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: rgba(125,105,0,0.69);
+  border-color: rgba(197,166,0,0.69);
+}
+
